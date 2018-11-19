@@ -1,2 +1,2 @@
-# datasciencecoursera-2
+# datasciencecoursera
 First Repository from Coursera Data Science
